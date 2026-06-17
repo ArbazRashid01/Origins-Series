@@ -1,0 +1,130 @@
+Bismillah. Locking the Script Bible defaults (vocals-only nasheed/ambient audio; warm, calm narrator) and proceeding. Per our workflow, **sources first, then script.**
+
+---
+
+# 🎬 S1 • E1 — "BEFORE TIME EXISTED"
+*Origins: The Story of Islam*
+
+---
+
+## 📌 STEP 1 — CITATION LOG (locked before scripting)
+
+| # | Claim in the script | Source | Type | On-screen label |
+|---|---------------------|--------|------|-----------------|
+| 1 | A "time" existed when nothing existed but Allah | **Sahih al-Bukhari** — narration of Imran ibn Husayn (Kitab Bad' al-Khalq): *"Allah existed, and there was nothing else besides Him."* | Sahih | *Sahih al-Bukhari* |
+| 2 | Allah is the First and the Last | **Qur'an 57:3** — *"He is al-Awwal (the First) and al-Akhir (the Last)…"* | Quran | *Qur'an 57:3* |
+| 3 | Allah is *as-Samad* (Self-Sufficient; needs nothing, all need Him) | **Qur'an 112 (al-Ikhlas)** | Quran | *Qur'an 112* |
+| 4 | Allah created with purpose | **Qur'an 51:56** — *"I did not create jinn and mankind except to worship Me."* | Quran | *Qur'an 51:56* |
+
+**⚠️ Guardrails applied:**
+- No speculation about "before creation" — the not-knowing is *kept in* the script as humility.
+- Exact Bukhari wording to be confirmed on sunnah.com before final cut.
+- Aqidah episode → **Tier-A scholar review required** before publishing.
+
+---
+
+## 📲 THE REEL SCRIPT (60–90 sec)
+
+**REEL: S1 • E1 — "Before Time Existed"**
+
+### 🎣 HOOK (0–5s)
+> *"Ek waqt aisa tha… jab waqt bhi nahi tha."*
+> *(pause)*
+> *"Na zameen, na aasman. Sirf Allah."*
+
+### 🎙️ NARRATION (Hinglish — beat by beat)
+
+**Emotional Setup (5–20s):**
+> *"Aankhein band karo… aur socho. Na sitaare, na suraj. Na roshni, na andhera. Kuch bhi nahi."*
+> *"Hum to har cheez ka 'pehle' aur 'baad' sochte hain. Lekin yahan koi 'pehle' tha hi nahi. Sirf Allah — jiska na koi shuru hai, na koi anth."*
+
+**Story Development (20–60s):**
+> *"Hamare Nabi Muhammad ﷺ ne bataya — Allah tha, aur uske siwa kuch bhi nahi tha."*
+> *"Quran mein Allah farmata hai ke wo hai 'Al-Awwal' — sabse pehla, jiske pehle kuch nahi. Aur 'Al-Akhir' — sabse aakhri, jiske baad kuch nahi."*
+> *"Aur wo hai 'As-Samad' — matlab, jise kisi ki zaroorat nahi… lekin har cheez ko usi ki zaroorat hai."*
+> *"Phir, usi ek ke hukum se… sab kuch wujood mein aana shuru hua. Roshni. Aasman. Zameen. Aur waqt khud."*
+
+**Climax / Revelation (60–80s):**
+> *"Ab zara ruko… aur ye socho."*
+> *"Tumhari saans. Tumhari dhadkan. Tumhara hona. Ye sab us Zaat ne diya — jise tumhari zarra barabar bhi zaroorat nahi thi."*
+> *"Allah ko tumhari zaroorat nahi thi… phir bhi usne tumhe banaya."*
+
+**Reflection (80–90s):**
+> *"Iska matlab — tum bekaar paida nahi hue. Tumhe ek maqsad ke saath banaya gaya."*
+> *"Jis din ye baat dil mein utar jaati hai… insaan ki poori zindagi badal jaati hai."*
+
+### 🔄 OPEN LOOP ENDING
+> *"Lekin insaan se bhi pehle… Allah ne ek aur duniya banayi. Ek aisi makhlooq, jo noor se bani — jise aaj tak kisi insaan ne nahi dekha."*
+> *"Unki kahani… agle episode mein."*
+
+---
+
+### 🎬 VISUAL SUGGESTIONS (halal — no figures)
+- **0–5s:** Pure black screen → a single faint dot of gold light pulsing. Text fades in: *"BEFORE TIME EXISTED."*
+- **5–20s:** Slow drift through total darkness/void. Absolute emptiness — emphasize *nothing*.
+- **20–40s:** Calligraphy of **الأول / الآخر** (Al-Awwal / Al-Akhir) forming softly in gold; then **الصمد** (As-Samad).
+- **40–60s:** The single point of light **expands** — particles, then a slow bloom into a starfield/cosmos (creation beginning). This is the visual "wow" moment.
+- **60–80s:** Cut to intimate, human macro b-roll — a slow heartbeat pulse visual, breath-like fog, a sleeping silhouette's chest rising (no face). Ties "your existence" to the cosmos.
+- **80–90s:** Pull back to the vast cosmos; a warm glow.
+- **Open loop:** The screen darkens, then a faint **stream of light** appears at the edge (hint of the angels) → cut to black.
+
+### 🔊 SOUND DESIGN
+- **0–5s:** Total silence → a single deep ambient "boom" on the dot of light. (Silence is the hook's weapon.)
+- **5–20s:** Very low ambient drone; almost no sound (emptiness).
+- **20–60s:** Soft vocals-only nasheed pad swelling gently as creation "blooms."
+- **60–80s:** Add a subtle heartbeat layer under the narration.
+- **80–90s:** Warm resolve; let the last line sit in near-silence.
+- **Open loop:** A faint, ethereal shimmer as the light-stream appears.
+
+### 🧲 RETENTION TRIGGERS
+1. **Silence + black screen hook** = pattern interrupt (stops the scroll).
+2. **"Aankhein band karo"** = direct command pulls viewer in.
+3. **Curiosity gap:** "koi 'pehle' tha hi nahi" makes the brain itch to resolve it.
+4. **The light-bloom at ~45s** = visual payoff right when attention dips.
+5. **"Ab zara ruko"** = verbal pattern interrupt re-grabbing attention before the climax.
+6. **Personal turn ("tumhari dhadkan")** = makes it about *them* = save/share trigger.
+7. **Open loop** = unresolved promise (the unseen creation) = follow trigger.
+
+### 📌 ON-SCREEN CITATIONS (lower-thirds, as they're referenced)
+- *Sahih al-Bukhari* (on the "nothing besides Him" line)
+- *Qur'an 57:3* (Al-Awwal / Al-Akhir)
+- *Qur'an 112* (As-Samad)
+- *Qur'an 51:56* (purpose / reflection)
+
+---
+
+## 🎥 SEASON 1 DOCUMENTARY — COLD OPEN
+*(E1's content opens the long-form film "Before You Existed: The Hidden Worlds." Same voice, calmer, deeper.)*
+
+**COLD OPEN (0:00–1:30):**
+
+> *(Black screen. Silence. A single point of gold light.)*
+>
+> **Narrator (soft):** *"Har cheez ka ek shuru hota hai. Tumhara, mera, is duniya ka, in sitaron ka. Lekin… kabhi socha hai? Sab kuch shuru hone se pehle… kya tha?"*
+>
+> *(Long pause. The light stays alone in the dark.)*
+>
+> *"Na waqt. Na jagah. Na roshni. Sirf Allah — jiske liye koi 'pehle' nahi tha. Ye baat hamara dimaag pakad hi nahi sakta… aur shayad isi mein iski khoobsoorti hai."*
+>
+> *"Aaj hum ek aisi kahani shuru kar rahe hain — jo har kahani se pehle ki kahani hai."*
+>
+> *(The light begins to expand. Title slams in:)*
+> **ORIGINS — Season 1: Before Humanity**
+
+**Then the documentary flows into:** Recap N/A (it's the premiere) → Main narrative (Who is Allah → the first creations) → covering E1–E5 in sequence → Quran/Hadith on screen → lessons → Season 1 cliffhanger into Adam (A.S.).
+
+---
+
+## ✅ Episode 1 delivered.
+- Reel script (full, Hinglish, all 6 beats) ✅
+- Visuals + sound + retention triggers + open loop ✅
+- Citation log + on-screen sources ✅
+- Documentary cold open ✅
+
+**Before you film:** this is aqidah → please run it through your **Tier-A scholar** and confirm the exact Bukhari wording on sunnah.com.
+
+---
+
+Want me to now:
+1. **Write the full Season 1 documentary script** (15–25 min, expanding E1–E5), or
+2. **Write E2 — "The Beings of Light"** Reel next, keeping the open-loop continuity?
