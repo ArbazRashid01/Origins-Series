@@ -26,7 +26,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 1 — The First Humans · *Season 02 (Adam)* — ⚪ planned
+## ERA 1 — The First Humans · *Season 02 (Adam)*
 
 ```
 • Creation of ADAM from clay; Allah breathes in the soul; teaches him the names.
@@ -39,7 +39,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 2 — The Early Prophets & The Flood · *Seasons 03-04* — ⚪ planned
+## ERA 2 — The Early Prophets & The Flood · *Seasons 03-04*
 
 ```
 • Generations after Adam; gradual drift into idol-worship (Wadd, Suwa', etc.).
@@ -52,7 +52,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 3 — Ibrahim and His Line · *Season 05* — ⚪ planned
+## ERA 3 — Ibrahim and His Line · *Season 05*
 
 ```
 • IBRAHIM (Abraham) — the seeker of truth; smashing the idols; the fire that
@@ -65,7 +65,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 4 — Yusuf & Musa · *Seasons 06-07* — ⚪ planned
+## ERA 4 — Yusuf & Musa · *Seasons 06-07*
 
 ```
 • YUSUF (Joseph) — the dream; the brothers; Egypt; from prison to power.        [S6]
@@ -78,7 +78,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 5 — The Kingdom Prophets · *Seasons 08-09* — ⚪ planned
+## ERA 5 — The Kingdom Prophets · *Seasons 08-09*
 
 ```
 • DAWUD (David) — the boy who felled Jalut (Goliath); the kingdom; the Zabur.    [S8]
@@ -90,7 +90,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 6 — Maryam & Isa · *Season 10* — ⚪ planned
+## ERA 6 — Maryam & Isa · *Season 10*
 
 ```
 • The family of 'Imran; Maryam (Mary) dedicated to the Temple.
@@ -102,7 +102,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 7 — The World Before Muhammad ﷺ · *Season 11* — ⚪ planned
+## ERA 7 — The World Before Muhammad ﷺ · *Season 11*
 
 ```
 • The "Period of Ignorance" (Jahiliyyah): Arabia's tribes, idols, and customs.
@@ -114,7 +114,7 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 
 ---
 
-## ERA 8 — Revelation, Hijrah & Triumph · *Seasons 12-14* — ⚪ planned
+## ERA 8 — Revelation, Hijrah & Triumph · *Seasons 12-14*
 
 ```
 • 610 CE — First revelation in the Cave of Hira; the mission begins.            [S12]
@@ -134,4 +134,4 @@ This is the backbone of the entire encyclopedia — the single thread that conne
 - The further back, the less precise the dating — and this encyclopedia says so honestly rather than inventing certainty.
 - Each era's full detail lives in its season's chapters. This file is the map; the chapters are the territory.
 
-*Extended as each season is written. Currently complete through **Era 0 (Season 01)**.*
+*✅ **Complete** — all eras (Seasons 01-14, Episodes 01-55) have been written.*
