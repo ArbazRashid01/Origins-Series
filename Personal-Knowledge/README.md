@@ -32,8 +32,17 @@ Where scholars differ, both views are noted — follow your trusted scholar.
 ---
 
 ## 📂 Progress
-- ✅ **Season 01 — Before Humanity** (5 episodes) — *complete*
-- ⏳ Season 02 — Adam — *coming next*
-- ⏳ Seasons 03–14 — *to be built season by season*
+- ✅ **Season 01 — Before Humanity** (5 episodes) — *complete (per-episode files)*
+- ✅ **Season 02 — Adam** (4 episodes)
+- ✅ **Season 03 — Nuh** (3 episodes)
+- ✅ **Season 04 — The Doomed Nations: 'Aad & Thamud** (3 episodes)
+- ✅ **Season 05 — Ibrahim** (6 episodes)
+- ✅ **Season 06 — Yusuf** (4 episodes)
+- ✅ **Season 07 — Musa** (6 episodes)
+- ✅ **Season 08 — Dawud & Sulayman** (3 episodes)
+- ✅ **Season 09 — Ayyub & Yunus** (2 episodes)
+- ⏳ Seasons 10–14 (Maryam & Isa → the Seerah) — *to be built next*
+
+> **Note on format:** Season 01 uses one file *per episode* (in its own folder). Seasons 02–09 use one **comprehensive file per season**, with each episode as a full chapter (same 7-section depth) — to make 8 seasons deliverable at once. Any season can be split into per-episode files on request.
 
 *May Allah grant us beneficial knowledge and sincerity. Ameen.* 🤲
